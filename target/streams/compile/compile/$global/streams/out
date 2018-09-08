@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/estudiantes/cesar.munozr/IdeaProjects/ScalaDojo/src/main/scala/main.scala:84:5: not found: value prntln[0m
+[0m[[0m[31merror[0m] [0m[0m    prntln(s"Server online at http://localhost:8080/\n Press Return to stop")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
